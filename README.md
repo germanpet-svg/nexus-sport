@@ -2,8 +2,8 @@
 
 Software de gestión para gimnasios en Windows: miembros, membresías, punto de venta, rutinas, asistencia y reportes en una sola aplicación.
 
-🌐 **Página del proyecto:** https://TU_USUARIO.github.io/TU_REPO/
-⬇️ **Descarga:** [Releases](https://github.com/TU_USUARIO/TU_REPO/releases)
+🌐 **Página del proyecto:** https://github.com/germanpet-svg/nexus-sport
+⬇️ **Descarga:** [Releases]()
 
 ![Dashboard](assets/preview.jpg)
 
